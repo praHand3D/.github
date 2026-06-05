@@ -1,12 +1,6 @@
-## Hi there 👋
+### praHand3D - project built from scratch
+- [praHangine](https://github.com/praHand3D/praHangine) - custom 3D engine written in C++
+- [praPR4](https://github.com/praHand3D/praPR4) - library for reading and writing the .PR4 binary format (C++, Java planned)
+- [praFormatterPR4](https://github.com/praHand3D/praFormatterPR4) - tools to create, edit and view .PR4 files, including a Blender plugin
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Every component is written from the ground up - the engine, the file format, and the tooling around it.
